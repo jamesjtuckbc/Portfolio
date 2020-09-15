@@ -1,4 +1,13 @@
-*{
+* {
     background-color: black;
     color: white;
+}
+
+header {
+    position: relative;
+    text-align: center;
+}
+
+h1{
+    margin: auto;
 }

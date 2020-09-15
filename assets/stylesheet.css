@@ -6,6 +6,7 @@
 header {
     position: relative;
     text-align: center;
+
 }
 
 content {
@@ -21,3 +22,7 @@ h1{
     font-size: 70px;
 }
 
+#header_image {
+    max-width: 100%;
+    height: auto;
+}
